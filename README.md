@@ -4,4 +4,5 @@ This software is for implementing simulations of 'Global stabilization' that ste
 We developed it based on [Booleasim](https://github.com/jehoons/BooleanSim) that is pytython 3 package for finding attractors in Boolean network and was developed by jehoons.
 
 # Install
-* Unordered list can use asterisks
+* Booleansim
+⋅⋅⋅ Download Booleasim
