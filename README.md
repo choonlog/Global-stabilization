@@ -5,8 +5,7 @@ We developed it based on [BooleaSim](https://github.com/jehoons/BooleanSim) that
 
 # Install
 1. BooleanSim
-
-*Download BooleaSim
+Download BooleaSim
 cd BooleanSim 
 python setup.py install 
 
