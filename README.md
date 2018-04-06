@@ -23,4 +23,6 @@ python setup.py install
 
 # Implementation
 
-> 1. r9_mutation.py : 
+> 1. r9_mutation.py: One can find attractors with r9 mutation
+> 2. r10_mutation.py: One can find attractors with r10 mutation
+
