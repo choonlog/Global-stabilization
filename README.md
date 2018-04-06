@@ -15,11 +15,11 @@ python setup.py install
 
 **2. FVS**
 
-   [FVS finder](https://github.com/needleworm/fvs)
+   refetr to [FVS finder](https://github.com/needleworm/fvs)
 
 **3. Stable motifs**
 
-   [StableMotifs](https://github.com/jgtz/StableMotifs)
+   refetr to [StableMotifs](https://github.com/jgtz/StableMotifs)
 
 # Implementation
 
