@@ -21,6 +21,6 @@ python setup.py install
 
    [StableMotifs](https://github.com/jgtz/StableMotifs)
 
-# Publication
+# Implementation
 
-Global Stabilization of Boolean Networks to Control the Heterogeneity of Cellular Responses by Jung–Min Yang, Chun–Kyung Lee, and Kwang–Hyun Cho.
+> sss
