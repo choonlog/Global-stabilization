@@ -11,5 +11,5 @@ We developed it based on [BooleaSim](https://github.com/jehoons/BooleanSim) that
 **2. FVS**
    [FVS finder](https://github.com/needleworm/fvs)
 
-* Stable motifs
+**3. Stable motifs**
    [StableMotifs](https://github.com/jgtz/StableMotifs)
