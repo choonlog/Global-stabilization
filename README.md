@@ -7,10 +7,11 @@ We developed it based on [BooleaSim](https://github.com/jehoons/BooleanSim) that
 **1. BooleanSim**
 
    Download BooleaSim
-   '''
-   cd BooleanSim
-   python setup.py install
-   '''
+```
+git status
+git add
+git commit
+```
 
 **2. FVS**
 
