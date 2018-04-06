@@ -7,7 +7,9 @@ We developed it based on [BooleaSim](https://github.com/jehoons/BooleanSim) that
 > BooleanSim
 
 Download BooleaSim
+
 cd BooleanSim 
+
 python setup.py install 
 
 * FVS
