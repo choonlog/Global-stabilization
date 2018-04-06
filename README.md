@@ -6,15 +6,15 @@ We developed it based on [BooleaSim](https://github.com/jehoons/BooleanSim) that
 # Install
 * BooleanSim
 
-⋅⋅⋅Download BooleaSim
+⋅⋅⋅ Download BooleaSim
 cd BooleanSim 
 python setup.py install 
 
 * FVS
-⋅⋅⋅[FVS finder](https://github.com/needleworm/fvs)
+⋅⋅⋅ [FVS finder](https://github.com/needleworm/fvs)
 
 * Stable motifs
-⋅⋅⋅[StableMotifs](https://github.com/jgtz/StableMotifs)
+⋅⋅⋅ [StableMotifs](https://github.com/jgtz/StableMotifs)
 
 **This text will be bold**
 __This will also be bold__
