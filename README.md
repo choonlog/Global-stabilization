@@ -8,9 +8,8 @@ We developed it based on [BooleaSim](https://github.com/jehoons/BooleanSim) that
 
    Download BooleaSim
 ```
-git status
-git add
-git commit
+cd BooleanSim 
+python setup.py install
 ```
 
 **2. FVS**
