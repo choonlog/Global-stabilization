@@ -23,7 +23,7 @@ python setup.py install
 
 # Implementation
 
-> normal.py is for finding attractors with no mutations.
+* normal.py is for finding attractors with no mutations.
 
 > r9_mutation.pyis for finding attractors with r9 mutation.
 
