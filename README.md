@@ -5,6 +5,10 @@ We developed it based on [BooleaSim](https://github.com/jehoons/BooleanSim) that
 
 # Install
 1. BooleanSim
+
+⋅⋅⋅[FVS finder](https://github.com/needleworm/fvs)
+
+> Pardon my French
 Download BooleaSim
 cd BooleanSim 
 python setup.py install 
