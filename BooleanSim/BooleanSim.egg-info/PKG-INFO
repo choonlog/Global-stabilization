@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: BooleanSim
+Version: 0.1
+Summary: A simulator for boolean network
+Home-page: UNKNOWN
+Author: Je-Hoon Song
+Author-email: song.jehoon@gmail.com
+License: BSD
+Description-Content-Type: UNKNOWN
+Description: boolean simulation program
+Keywords: boolean network simulator
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: BSD License
