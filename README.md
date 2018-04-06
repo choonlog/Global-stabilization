@@ -24,6 +24,7 @@ python setup.py install
 # Implementation
 
 > normal.py is for finding attractors with no mutations.
+
 > r9_mutation.pyis for finding attractors with r9 mutation.
 > r10_mutation.pyis for finding attractors with r10 mutation.
 > FVS_application_to_r9.py is for finding attractors with fixed nodes that correspond to fvs and r9 mutation.
