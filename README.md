@@ -6,6 +6,8 @@ We developed it based on [BooleanSim](https://github.com/jehoons/BooleanSim) tha
 # Install
 **1. BooleanSim**
 
+   *It is necessary to install Visual studio with python development tool before installing this pacage.
+
 ```
 cd BooleanSim 
 python setup.py install
