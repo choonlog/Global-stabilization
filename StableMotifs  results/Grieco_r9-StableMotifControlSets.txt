@@ -1,0 +1,16 @@
+FGFR3_stimulus=0 TGFBR_stimulus=0 EGFR_stimulus=0 DNA_damage=0	Attractor0
+FGFR3_stimulus=1 TGFBR_stimulus=0 EGFR_stimulus=0 DNA_damage=0	Attractor1
+FGFR3_stimulus=0 TGFBR_stimulus=1 EGFR_stimulus=0 DNA_damage=0	Attractor2
+FGFR3_stimulus=1 TGFBR_stimulus=1 EGFR_stimulus=0 DNA_damage=0	Attractor3
+FGFR3_stimulus=0 TGFBR_stimulus=0 EGFR_stimulus=1 DNA_damage=0	Attractor4
+FGFR3_stimulus=1 TGFBR_stimulus=0 EGFR_stimulus=1 DNA_damage=0	Attractor5
+FGFR3_stimulus=0 TGFBR_stimulus=1 EGFR_stimulus=1 DNA_damage=0	Attractor6
+FGFR3_stimulus=1 TGFBR_stimulus=1 EGFR_stimulus=1 DNA_damage=0	Attractor7
+FGFR3_stimulus=0 TGFBR_stimulus=0 EGFR_stimulus=0 DNA_damage=1	Attractor8
+FGFR3_stimulus=1 TGFBR_stimulus=0 EGFR_stimulus=0 DNA_damage=1	Attractor9
+FGFR3_stimulus=0 TGFBR_stimulus=1 EGFR_stimulus=0 DNA_damage=1	Attractor10
+FGFR3_stimulus=1 TGFBR_stimulus=1 EGFR_stimulus=0 DNA_damage=1	Attractor11
+FGFR3_stimulus=0 TGFBR_stimulus=0 EGFR_stimulus=1 DNA_damage=1	Attractor12
+FGFR3_stimulus=1 TGFBR_stimulus=0 EGFR_stimulus=1 DNA_damage=1	Attractor13
+FGFR3_stimulus=0 TGFBR_stimulus=1 EGFR_stimulus=1 DNA_damage=1	Attractor14
+FGFR3_stimulus=1 TGFBR_stimulus=1 EGFR_stimulus=1 DNA_damage=1	Attractor15
