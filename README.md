@@ -15,7 +15,7 @@ python setup.py install
 
 **2. FVS**
 
-   Refetr to [FVS finder](https://github.com/needleworm/fvs)
+   Refer to [FVS finder](https://github.com/needleworm/fvs)
 
 **3. Stable motifs**
 
