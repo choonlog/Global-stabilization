@@ -142,7 +142,7 @@ def set(modeltext, input):
                             state[q] = "False"
                         else:
                             state[q] = ""
-                    print(state)
+    
 
                     result = iteration(modeltext)
                     z = 0
