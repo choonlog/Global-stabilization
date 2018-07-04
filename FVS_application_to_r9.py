@@ -117,7 +117,7 @@ attr_cy.build(modeltext)
 
 import pyximport; pyximport.install()
 
-res = attr_cy.run(samples=100000, steps=100, debug=False, progress=True, on_states=['EGFR', 'DNA_damage', 'p53', 'p38', 'PKC', 'GRB2', 'GAB1'], off_states=['p14', 'EGFR_stimulus', 'ERK', 'FGFR3_stimulus', 'TGFBR_stimulus'])
+res = attr_cy.run(samples=100000, steps=100, debug=False, progress=True, on_states=['DNA_damage', 'TGFBR_stimulus', 'p53', 'p38', 'PKC', 'GRB2', 'GAB1'], off_states=['EGFR_stimulus', 'ERK', 'FGFR3_stimulus'])
 # on_states=['A01', 'A51'], off_states=['A38', 'A40']
 # debug needs to be changed to 'True' to check trajectory
 json.dump(res, open('FVS_application_to_r9.json', 'w'), indent=4)
